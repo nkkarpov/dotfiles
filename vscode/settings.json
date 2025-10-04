@@ -54,4 +54,5 @@
     "github.copilot.chat.localeOverride": "en",
     "github.copilot.chat.agent.thinkingTool": true,
     "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "zig.zls.enabled": "on",
 }
