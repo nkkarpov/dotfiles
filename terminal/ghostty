@@ -52,6 +52,6 @@ font-size=15
 shell-integration=zsh
 copy-on-select=clipboard
 font-family=JetBrainsMono Nerd Font
-background-opacity = 0.9
+background-opacity = 0.95
 split-divider-color=#000000
 unfocused-split-opacity=0.5
