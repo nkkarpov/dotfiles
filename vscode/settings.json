@@ -17,7 +17,6 @@
     "files.autoSave": "afterDelay",
     "workbench.editor.showTabs": "single",
     "explorer.compactFolders": true,
-    "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": true,
     "workbench.tips.enabled": false,
     "workbench.startupEditor": "none",
@@ -52,7 +51,10 @@
     "chat.commandCenter.enabled": false,
     "window.title": "",
     "github.copilot.chat.localeOverride": "en",
+    "github.copilot.chat.terminalChatLocation": "terminal",
     "github.copilot.chat.agent.thinkingTool": true,
     "github.copilot.chat.alternateGptPrompt.enabled": true,
     "zig.zls.enabled": "on",
+    "workbench.sideBar.location": "right",
+    "git.autofetch": true,
 }
